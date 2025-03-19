@@ -1,0 +1,55 @@
+.root {
+    -fx-background-color: #F4F4F4;
+    background-color: #F4F4F4;
+    -fx-font-family: "Arial";
+    font-family: "Arial";
+}
+
+.label {
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #333;
+    color: #333;
+    -fx-font-weight: bold;
+    font-weight: bold;
+}
+
+.text-field {
+    -fx-background-color: #FFFFFF;
+    background-color: #FFFFFF;
+    -fx-border-color: #CCCCCC;
+    border-color: #CCCCCC;
+    -fx-border-radius: 5px;
+    border-radius: 5px;
+    -fx-padding: 5px;
+    padding: 5px; 
+    -fx-font-size: 14px;
+    font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #0078D7;
+    background-color: #0078D7;
+    -fx-text-fill: white;
+    color: white;
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-border-radius: 5px;
+    border-radius: 5px;
+    -fx-padding: 7px 14px;
+    padding: 7px 14px;
+    -fx-cursor: hand;
+    cursor: pointer;
+    -fx-font-weight: bold;
+    font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: #005A9E;
+    background-color: #005A9E;
+}
+
+.button:pressed {
+    -fx-background-color: #003C7A;
+    background-color: #003C7A;
+}
