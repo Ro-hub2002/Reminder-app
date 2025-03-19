@@ -1,6 +1,6 @@
 ReminderApp ⏰
 
-ReminderApp es una aplicación de recordatorios desarrollada en Java con JavaFX, que permite programar recordatorios con fecha y hora específica. La aplicación muestra notificaciones de forma nativa en Linux, con soporte adicional para Windows y MacOS.
+ReminderApp es una aplicación de recordatorios desarrollada en Spring Boot con Java 17, que permite programar recordatorios con fecha y hora específica. La aplicación muestra notificaciones de forma nativa en Linux, con soporte adicional para Windows y MacOS.
 
 
 ✨ Características
